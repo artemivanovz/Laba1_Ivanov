@@ -1,10 +1,5 @@
 ﻿using Laba1_Ivanov;
 
-//Rational num = new Rational(0, 1);
-//Rational num2 = new Rational(1, 1);
-//Rational res = num / num2;
-//Console.WriteLine(res.Numerator.ToString() + res.Denominator.ToString());
-
 void task2()
 {
     var item1 = new TimeEU();

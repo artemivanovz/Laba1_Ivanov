@@ -46,7 +46,7 @@ namespace Laba1_Ivanov
         public override string PrintTime()
         {
             StringBuilder text = new StringBuilder(base.PrintTime());
-            text.Insert(17, " <- right now! ");
+            text.Insert(16, " <- right now! ");
             return text.ToString();
         }
     }
@@ -56,7 +56,7 @@ namespace Laba1_Ivanov
         public override string PrintTime()
         {
             StringBuilder text = new StringBuilder(base.PrintTime());
-            text.Insert(20, " <- right now! ");
+            text.Insert(19, " <- right now! ");
             return text.ToString();
         }
     }
